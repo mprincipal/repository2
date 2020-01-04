@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to mPrincipal
 
-You can use the [editor on GitHub](https://github.com/mprincipal/repository2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Machine learning in finance may work magic, even though there is no magic behind it (well, maybe just a little bit). Still, the success of machine learning project depends more on building efficient infrastructure, collecting suitable datasets, and applying the right algorithms.
 
 ### Markdown
 
